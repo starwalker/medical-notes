@@ -1,0 +1,16 @@
+* Differential Diagnosis
+1. Monarthritis
+2. Polyarthritis
+   1. Inflammatory joint disease
+      1. Rheumatoid arthritis
+      2. Ankylosing spondylitis
+   2. Degenerative joint disease
+      1. Primary / Secondary Osteoarthritis
+   3. Metabolic deposition disease
+      1. Gout
+      2. Amyloidosis
+      3. Hyperlipidemia
+      4. Multicentric reticulohistiocytosis
+      5. CPPD (Calcium Pyrophsophate Dihydrate Crystal Deposition Disease)
+
+   
